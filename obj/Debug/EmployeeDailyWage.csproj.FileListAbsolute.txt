@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\FindEmployeeDailyWage\EmployeeDailyWage\bin\Debug\EmployeeDailyWage.exe.config
+C:\Users\hp\source\repos\FindEmployeeDailyWage\EmployeeDailyWage\bin\Debug\EmployeeDailyWage.exe
+C:\Users\hp\source\repos\FindEmployeeDailyWage\EmployeeDailyWage\bin\Debug\EmployeeDailyWage.pdb
+C:\Users\hp\source\repos\FindEmployeeDailyWage\EmployeeDailyWage\obj\Debug\EmployeeDailyWage.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FindEmployeeDailyWage\EmployeeDailyWage\obj\Debug\EmployeeDailyWage.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\FindEmployeeDailyWage\EmployeeDailyWage\obj\Debug\EmployeeDailyWage.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FindEmployeeDailyWage\EmployeeDailyWage\obj\Debug\EmployeeDailyWage.exe
+C:\Users\hp\source\repos\FindEmployeeDailyWage\EmployeeDailyWage\obj\Debug\EmployeeDailyWage.pdb
